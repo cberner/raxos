@@ -9,9 +9,9 @@ if (( $# != 1 )) || [[ -z "$COMMAND" ]]; then
     exit 2
 fi
 
-readonly IMAGE="localhost/quepaxa-sandbox:latest"
+readonly IMAGE="localhost/raxos-sandbox:latest"
 readonly RUST_VERSION="$(<rust-toolchain)"
-readonly TARGET_VOLUME="quepaxa-sandbox-target"
+readonly TARGET_VOLUME="raxos-sandbox-target"
 
 if [[ ! "$RUST_VERSION" =~ ^[0-9]+\.[0-9]+(\.[0-9]+)?$ ]]; then
     echo "Invalid Rust version in rust-toolchain: $RUST_VERSION" >&2

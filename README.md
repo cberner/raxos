@@ -1,12 +1,12 @@
-# quepaxa
+# raxos
 
 ![CI](https://github.com/cberner/quepaxa/actions/workflows/ci.yml/badge.svg)
-[![Crates.io](https://img.shields.io/crates/v/quepaxa.svg)](https://crates.io/crates/quepaxa)
-[![Documentation](https://docs.rs/quepaxa/badge.svg)](https://docs.rs/quepaxa)
-[![License](https://img.shields.io/crates/l/quepaxa)](https://crates.io/crates/quepaxa)
+[![Crates.io](https://img.shields.io/crates/v/raxos.svg)](https://crates.io/crates/raxos)
+[![Documentation](https://docs.rs/raxos/badge.svg)](https://docs.rs/raxos)
+[![License](https://img.shields.io/crates/l/raxos)](https://crates.io/crates/raxos)
 [![dependency status](https://deps.rs/repo/github/cberner/quepaxa/status.svg)](https://deps.rs/repo/github/cberner/quepaxa)
 
-Quepaxa is a Rust implementation of the Quepaxa consensus algorithm.
+Raxos is a Rust implementation of the Quepaxa consensus algorithm.
 
 ## License
 

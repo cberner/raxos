@@ -23,7 +23,7 @@ test_no_sandbox: pre_no_sandbox
     RUST_BACKTRACE=1 cargo test --frozen --all-features
 
 clear_podman_cache:
-    podman volume rm --force quepaxa-sandbox-target
+    podman volume rm --force raxos-sandbox-target
 
 coverage:
     #!/usr/bin/env bash
