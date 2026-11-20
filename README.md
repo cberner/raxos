@@ -1,10 +1,10 @@
 # raxos
 
-![CI](https://github.com/cberner/quepaxa/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/cberner/raxos/actions/workflows/ci.yml/badge.svg)
 [![Crates.io](https://img.shields.io/crates/v/raxos.svg)](https://crates.io/crates/raxos)
 [![Documentation](https://docs.rs/raxos/badge.svg)](https://docs.rs/raxos)
 [![License](https://img.shields.io/crates/l/raxos)](https://crates.io/crates/raxos)
-[![dependency status](https://deps.rs/repo/github/cberner/quepaxa/status.svg)](https://deps.rs/repo/github/cberner/quepaxa)
+[![dependency status](https://deps.rs/repo/github/cberner/raxos/status.svg)](https://deps.rs/repo/github/cberner/raxos)
 
 Raxos is a Rust implementation of the Quepaxa consensus algorithm.
 

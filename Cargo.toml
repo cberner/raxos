@@ -6,7 +6,7 @@ edition = "2024"
 rust-version = "1.97"
 license = "MIT OR Apache-2.0"
 readme = "README.md"
-repository = "https://github.com/cberner/quepaxa"
+repository = "https://github.com/cberner/raxos"
 authors = ["Christopher Berner <me@cberner.com>"]
 
 [dependencies]
